@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NileshRadadiya/newazuredemo/issues"
   },
-  "homepage": "https://github.com/NileshRadadiya/newazuredemo#readme"
+  "homepage": "https://github.com/NileshRadadiya/newazuredemo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
